@@ -1,7 +1,7 @@
 name: Daniel Williams
 favicon: null
-layout_spectrum: 0.40047026542015374
-typography_spectrum: 0.9945371721405536
+layout_spectrum: 0.24791
+typography_spectrum: 0.9616
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#5C6B73'
     - '#253237'
   brandStrength: 0.013895997777581215
-  lightness: 0.007008498767390847
-  saturation: 0.9840376749634743
-  rhythmicContrast: 0.07337869657203555
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
