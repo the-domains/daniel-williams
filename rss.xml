@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Daniel Williams]]></title>
+        <description><![CDATA[Daniel Williams]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 05 Jan 2016 17:30:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Japan Notes]]></title>
+            <description><![CDATA[<article><h1>Japan Notes</h1><p>Horror</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5ba30789ff1c16d826d43e2b0113dd89366ce28.jpg"></article>]]></description>
+            <link>undefinedjapan-notes/index.html</link>
+            <guid isPermaLink="false">b448ac0e-1f7c-412e-80f1-19e37424ddfa</guid>
+            <pubDate>Tue, 05 Jan 2016 17:30:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
